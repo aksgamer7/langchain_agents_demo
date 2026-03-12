@@ -4,19 +4,4 @@
 # But track main.py and .gitignore
 !.gitignore
 !main.py
-
-# Ignore virtual environment
-venv/
-
-# Ignore environment variables
-*.env
-
-# Ignore PDF files
-*.pdf
-
-# Ignore VS Code settings
-.vscode/
-
-# Ignore Python cache
-__pycache__/
-*.pyc
+!requirements.txt
